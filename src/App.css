@@ -1,0 +1,10 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: Roboto, Ubuntu, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #111;
+}
